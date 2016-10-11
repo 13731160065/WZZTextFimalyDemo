@@ -1,1 +1,2 @@
 # WZZTextFimalyDemo
+这个程序提供了一个便捷的iOS字体查询功能，以方便广大iOS开发查找想要的字体
